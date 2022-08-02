@@ -5,5 +5,12 @@ come again
 remote
 control
 123456789
+<<<<<<< HEAD
 every commit 
 there is no commit changes
+=======
+every commit
+there is no commit changes
+coflicts in remote
+remote conflicts
+>>>>>>> ce488564abc986921354ab4bab59b842c30655b9

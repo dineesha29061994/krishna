@@ -8,3 +8,4 @@ control
 every commit
 there is no commit changes
 coflicts in remote
+remote conflicts

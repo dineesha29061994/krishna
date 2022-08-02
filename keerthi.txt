@@ -5,6 +5,10 @@ come again
 remote
 control
 123456789
+every commit 
+there is no commit changes
+conflicts in local
 every commit
 there is no commit changes
 coflicts in remote
+

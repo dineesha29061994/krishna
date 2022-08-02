@@ -8,3 +8,7 @@ control
 every commit 
 there is no commit changes
 conflicts task2
+every commit
+there is no commit changes
+coflicts in remote
+remote conflicts
